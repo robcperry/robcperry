@@ -57,7 +57,7 @@ Main Stack is MERN
 - 🌱 I’m currently learning React-Native
 - 🤔 I’m looking for backend developer roles
 - ⚡️ Fun-Fact: Top 10 on leaderboards in PACMAN Championship Edition at one point (XBOX 360) 
-- 🎿 Hobbies other than coding : Reading (fiction & non-fiction, recommendations welcome), videography, world building and writing my fantasy IP..
+- 🎿 Hobbies: Reading (fiction & non-fiction, recommendations welcome), videography, world building, and writing my fantasy IP.
 - 📫 How to reach me: rcperry37@gmail.com
 - 📝 Resume upon request
 
