@@ -118,7 +118,7 @@ Main Stack is MERN
 
 ### 👣 Next Steps
 
-_Since you don't want to leave my profile just yet! Here are a few things you can do :_
+Here are a few things you can help me with :
 
 🔥 Job Opportunities : Shoot me a message with details [![Linkedin Badge](https://img.shields.io/badge/-rob_perry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-c-perry/)](https://www.linkedin.com/in/robert-c-perry/)
 or [![Gmail Badge](https://img.shields.io/badge/-rcperry37@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rcperry37@gmail.com)](mailto:rcperry37@gmail.com)
