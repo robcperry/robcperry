@@ -56,7 +56,7 @@ Main Stack is MERN
 - 👨🏽‍💻 I’m currently working @100Devs (React.js Dev.)
 - 🌱 I’m currently learning React-Native
 - 🤔 I’m looking for backend developer roles
-- 💬 Ask me about Home In my Home Inventory tracking system.
+- 💬 Ask me about "Home In", my Home Inventory tracking system.
 - ⚡️ Fun-Fact: Top 10 on leaderboards in PACMAN Championship Edition at one point (XBOX 360) 
 - 🎿 Hobbies: Reading (fiction & non-fiction), videography, fantasy world building.
 - 📫 How to reach me: rcperry37@gmail.com
