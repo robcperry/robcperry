@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p>
-A Full Stack JavaScript Developer 🚀 based in Raleigh NC. I'm backend focused and love working with people!
+A Full Stack JavaScript Developer 🚀 based in Raleigh NC. I'm back-end focused and love working with people!
 <br/>
 Main Stack is MERN
 <br/>  
